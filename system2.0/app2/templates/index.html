@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Intelligence Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+
+        h1 { color: #222; }
+
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 10px 0;
+            box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+            cursor: pointer;
+        }
+
+        .card:hover {
+            background-color: #f0f8ff;
+        }
+
+        #drilldown {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+        }
+
+        pre {
+            background: #eee;
+            padding: 10px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>🚀 Intelligence Dashboard</h1>
+
+<div id="summary"></div>
+
+<h2>📊 Trend View</h2>
+<div id="trendChart"></div>
+
+<h2>📰 Event Feed</h2>
+<div id="events"></div>
+
+<h2>🔍 Drill Down</h2>
+<div id="drilldown">Click a cluster to view details</div>
+
+
+<script>
+
+fetch("/api/data")
+.then(res => res.json())
+.then(data => {
+
+    // -------- SUMMARY --------
+    document.getElementById("summary").innerHTML =
+        `<h3>Total Clusters: ${data.length}</h3>`;
+
+    // -------- TREND --------
+    let trendCounts = {};
+
+    data.forEach(item => {
+        let trend = item.analysis?.trend || "Unknown";
+        trendCounts[trend] = (trendCounts[trend] || 0) + 1;
+    });
+
+    Plotly.newPlot("trendChart", [{
+        x: Object.keys(trendCounts),
+        y: Object.values(trendCounts),
+        type: "bar"
+    }]);
+
+    // -------- EVENT FEED --------
+    let html = "";
+
+    data.forEach(item => {
+
+        let summary = item.analysis?.summary || "No summary available";
+
+        html += `
+        <div class="card" onclick="loadCluster(${item.cluster_id})">
+            <h3>Cluster ${item.cluster_id}</h3>
+            <p><b>Trend:</b> ${item.analysis?.trend || "N/A"}</p>
+            <p>${summary}</p>
+        </div>
+        `;
+    });
+
+    document.getElementById("events").innerHTML = html;
+
+});
+
+
+// -------- DRILL DOWN FUNCTION --------
+function loadCluster(clusterId) {
+
+    fetch(`/api/cluster/${clusterId}`)
+    .then(res => res.json())
+    .then(data => {
+
+        if (data.error) {
+            document.getElementById("drilldown").innerHTML =
+                `<p style="color:red;">${data.error}</p>`;
+            return;
+        }
+
+        let merged = data.original_cluster?.merged_event || {};
+
+        let html = `
+        <h3>Cluster ${data.cluster_id}</h3>
+
+        <h4>📊 Analysis</h4>
+        <p><b>Trend:</b> ${data.analysis?.trend || "N/A"}</p>
+        <p><b>Summary:</b> ${data.analysis?.summary || "N/A"}</p>
+        <p><b>Importance:</b> ${data.analysis?.importance_score || "N/A"}</p>
+
+        <h4>🧾 Sources</h4>
+        <p>${(merged.sources || []).join(", ") || "N/A"}</p>
+
+        <h4>📍 Locations</h4>
+        <p>${(merged.locations || []).join(", ") || "N/A"}</p>
+
+        <h4>👥 Actors</h4>
+        <p>${(merged.actors || []).join(", ") || "N/A"}</p>
+
+        <h4>📝 Full Data</h4>
+        <pre>${JSON.stringify(data, null, 2)}</pre>
+        `;
+
+        document.getElementById("drilldown").innerHTML = html;
+
+    })
+    .catch(err => {
+        document.getElementById("drilldown").innerHTML =
+            `<p style="color:red;">Error loading cluster</p>`;
+        console.error(err);
+    });
+}
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,612 @@
+[
+  {
+    "cluster_id": 0,
+    "analysis": {
+      "trend": "increasing",
+      "source_count": 3,
+      "importance_score": 188.0,
+      "summary": "Cluster of 61 events.\n\nEvent Types: conflict, general, violence\nActors: ##pc, re, vol, ##rae, ben\nLocations: dub, ##ussia, ##stan, r, ban\n\nSources involved: 3"
+    },
+    "original_cluster": {
+      "cluster_id": 0,
+      "merged_event": {
+        "cluster_size": 61,
+        "event_texts": [
+          "more than 72,200 people, including tens of thousands of women and children, have been killed since the war began in october 2023.",
+          "video duration 01 minutes 17 seconds play-arrow 01 17 a premature ceasefire risks another round of conflict in future video duration 01 minutes 41 seconds play-arrow 01 41 analyst says that irans interest is in an extended war video duration 01 minutes 00 seconds play-arrow 01 00 trump has to open the strait of hormuz with ground forces video duration 01 minutes 05 seconds play-arrow 01 05 iran expert says us ground invasion could cause a global economic meltdown video duration 01 minutes 28 seconds play-arrow 01 28 war on iran price crisis not just about energy, says analyst video duration 01 minutes 02 seconds play-arrow 01 02 adviser questions us justification for war on iran video duration 01 minutes 07 seconds play-arrow 01 07",
+          "recommended stories list of 3 items list 1 of 3 drones expand the deadly front lines of sudans devastating war list 2 of 3 drone attack from sudan kills 17 people in chad as war spills over border list 3 of 3 muslims celebrate eid al-fitr around the world amid shadow of war end of list two took each girl, and they raped us, she told doctors without borders, an international medical ngo known by its french initials msf.",
+          "dubai and abu dhabis benchmark indexes have plunged about 16 percent and 9 percent, respectively, since the united states and israel launched their war on iran on february 28.",
+          "recommended stories list of 4 items list 1 of 4 watch full interview with marco rubio on the us war against iran list 2 of 4 at least 70 killed, 30 wounded in haiti gang attack, rights group says list 3 of 4 intense us-israeli attacks on iranian city of isfahan cause column of fire list 4 of 4 pentagon denies that hegseths broker sought investment before iran war end of list since the start of the war, the dubai financial market dfm general index has lost about 45bn in market capitalisation, while the larger adx general index has shed about 75bn.",
+          "tens of thousands of flights have been cancelled due to the war, many of them on routes",
+          "iran war what is happening on day 32 of us-israel attacks?",
+          "in an exclusive interview with al jazeera, united states secretary of state marco rubio said communication between tehran and washington is ongoing, mostly through intermediaries, adding us war objectives would be achieved in weeks, not months.",
+          "meanwhile, us president donald trump has threatened to destroy irans main oil export hub and energy infrastructure if no deal is reached soon.",
+          "in iran state media reported that a parliamentary commission approved tolls on vessels transiting the strait of hormuz, a key oil and gas route effectively closed by the war.",
+          "trump threatened to destroy irans oil export hub of kharg island, oil wells and power plants if no deal is reached soon.",
+          "israel and the us continued with their bombardment, with powerful explosions reported in tehran and isfahan .",
+          "al jazeeras mohamed vall said iranian leaders are focused on the war effort as they deeply distrust the us, believing washington is not genuinely ready for negotiations on ending the war.",
+          "irans latest wave of regional attacks the 87th in a month was launched by the countrys navy.",
+          "recommended stories list of 3 items list 1 of 3 us-israel war on iran whats happening on day 31 of attacks list 2 of 3 schools, water, industry what civilian targets have us, israel, iran hit?",
+          "a year later, international law remains buried end of list ten israeli soldiers have been reported killed since fighting between israel and hezbollah flared up on march 2, following a united states-israeli joint attack on iran .",
+          "more than 1,200 people have been killed in israeli attacks on lebanon, according to the lebanese ministry of public health, and more than a million displaced .",
+          "on tuesday, lebanons national news agency reported that israeli drone attacks killed four people in southern lebanon a strike on a car in the al-wasita al-qasimiya area near tyre killed two, while another raid on derikifa killed two more people.",
+          "this comes a day after the united nations interim force in lebanon unifil said two peacekeepers were killed when an explosion of unknown origin destroyed their vehicle near the southern lebanese village of bani haiyyan.",
+          "kuwait petroleum corporation kpc said early on tuesday that the al-salmi tanker was struck in an iranian attack while anchored at the port in the united arab emirates, causing damage to the vessel and a fire on board.",
+          "list 2 of 4 irans foreign ministry rejects us ceasefire demands list 3 of 4 pentagon denies that hegseths broker sought investment before iran war list 4 of 4 spain closes airspace to us warplanes involved in war on iran end of list kpc warned of a possible oil spill in surrounding waters, kuwaiti state news agency kuna reported.",
+          "authorities in dubai said there was a drone attack on the kuwaiti oil tanker overnight, and response teams had contained the incident.",
+          "these attacks seem to be getting closer, theyre getting louder, and one of them hit that oil tanker off the coast of the waters of dubai, he said.",
+          "spain closes airspace to us warplanes involved in war on iran us-israel war on iran al jazeera toggle play spain closes airspace to us warplanes involved in war on iran spain has taken another step in rejecting the us-israeli war on iran, denying us warplanes the use of its airspace to conduct any war-related operations.",
+          "outrage and condemnation over israels death penalty law for palestinians israel-palestine conflict al jazeera toggle play outrage and condemnation over israel's death penalty law for palestinians outrage and widespread condemnation has followed israel legalising the death penalty for palestinians, making execution by hanging mandatory for any convicted of deadly attacks.",
+          "at least 70 people killed and 30 injured in haiti gang attack haiti the guardian skip to main content skip to navigation skip to navigation children displaced by violence shelter in artibonite, central haiti last year.",
+          "photograph fildor pq egeder reuters haiti at least 70 people killed and 30 injured in haiti gang attack nearly 6,000 people forced to flee, human rights group says, as it criticises abandonment from authorities reuters mon 30 mar 2026 21.46 bst last modified on mon 30 mar 2026 22.31 bst share prefer the guardian on google at least 70 people have been killed and 30 injured during an attack in haitis breadbasket artibonite region, significantly more than official estimates, a human rights group has said.",
+          "brent crude hits 116 a barrel as trump threatens to blow up irans oilwells and export hub oil the guardian skip to main content skip to navigation skip to navigation donald trump told the ft maybe we take kharg island, maybe we dont.",
+          "he wrote we will conclude our lovely stay in iran by blowing up and completely obliterating all of their electric generating plants, oil wells and kharg island and possibly all desalinization plants!",
+          "this will be in retribution for our many soldiers, and others, that iran has butchered and killed over the old regimes 47 year reign of terror.",
+          "to wait and see how the economic fallout of the war on iran unfolds.",
+          "ukraine war briefing allies asked kyiv about reducing attacks on russian energy sector, zelenskyy says russia the guardian skip to main content skip to navigation skip to navigation people attend a ceremony to mark the fourth anniversary of the liberation of bucha, ukraine, on monday.",
+          "photograph evgeniy maloletka ap russia-ukraine war at a glance russia explainer ukraine war briefing allies asked kyiv about reducing attacks on russian energy sector, zelenskyy says president says he is open to scaling back strikes on oil and wider energy industry if moscow reciprocates.",
+          "what we know on day 1,496 guardian staff and agencies tue 31 mar 2026 02.32 bst first published on tue 31 mar 2026 02.13 bst share prefer the guardian on google some of ukraines allies have sent kyiv signals about the possibility of scaling back the countrys long-range strikes on russias oil sector as global energy prices have surged, volodymyr zelenskyy said on monday.",
+          "the ukrainian president said he was ready to reciprocate if russia stopped attacking ukraines energy system, and that kyiv was open to an easter ceasefire.",
+          "recently, following such a severe global energy crisis, we have indeed received signals from some of our partners asking about how to reduce our responses in the oil sector and the energy sector of the russian federation, zelenskyy said in a whatsapp briefing with journalists.",
+          "fresh from a four-day visit to the middle east, zelenskyy said he had reached agreement",
+          "guardian staff and agencies tue 31 mar 2026 11.30 bst first published on tue 31 mar 2026 05.11 bst share prefer the guardian on google iran attacked and set ablaze a fully loaded crude oil tanker anchored at dubai port, with the strike damaging the vessels hull, in the latest strike on merchant vessels in the gulf and strait of hormuz amid the us and israel war on iran .",
+          "dubai authorities said the drone attack on the al salmi tanker caused a fire on board that was extinguished early on tuesday, hours after the attack was first reported.",
+          "the attack came hours after donald trump warned that the us would obliterate irans energy plants and oil wells if it does not open the strait of hormuz.the month-long conflict has spread across the middle east, killing thousands, disrupting energy supplies and threatening to send the global economy into a tailspin .",
+          "manilas transport workers struggle to make ends meet as philippines feels force of oil crisis read more kuwait petroleum corporation kpc said the al salmi was struck in an iranian attack while anchored at dubai port in the united arab emirates , causing a fire onboard and other damage to the vessel.",
+          "israel passes law to give death penalty to palestinians convicted of lethal attacks israel the guardian skip to main content skip to navigation skip to navigation israel approves death penalty for palestinians convicted of carrying out fatal attacks video israel israel passes law to give death penalty to palestinians convicted of lethal attacks knesset approves measure that has been criticised by european countries and rights groups lorenzo tondo in jerusalem mon 30 mar 2026 20.29 bst first published on mon 30 mar 2026 19.02 bst share prefer the guardian on google israels parliament has passed a law imposing the death penalty on palestinians convicted of fatal attacks, a measure sharply criticised as discriminatory by european countries and rights groups.",
+          "the legislation makes the death penalty the default punishment for palestinians in the israeli-occupied west bank found guilty of intentionally carrying out deadly attacks deemed acts of terrorism by a military court.",
+          "israel has rarely used the death penalty, applying it only in exceptional cases.",
+          "trump threatens to obliterate irans energy grid if ceasefire not reached shortly us-israel war on iran the guardian skip to main content skip to navigation skip to navigation the risk of further escalation, including a us ground operation to seize kharg island, sent tremors through the global financial markets.",
+          "tehran has remained defiant during the month-long conflict, describing us peace proposals as excessive, unrealistic and irrational and firing waves of missiles at israel.",
+          "but he said if a deal was not struck including to reopen the strait of hormuz shipping lane us forces would destroy all of their electric generating plants, oil wells and kharg island",
+          "afghanistan joined iran as countries singled out by the united states for detaining americans in hopes of",
+          "pakistans bombardment campaign, on what it says is terrorist and military infrastructure in neighbouring afghanistan, appeared to have gone catastrophically wrong.",
+          "the uns preliminary death toll is 143 people, while the taliban administration puts the figure at more than 400 dead.",
+          "ireland politics scotland scotland politics wales wales politics africa asia china india australia europe latin america middle east in pictures bbc indepth bbc verify sport business world of business nyse opening bell technology ai v the mind health culture film tv music art design style books entertainment news arts arts in motion travel destinations africa antarctica asia australia and pacific caribbean bermuda central america europe middle east north america south america worlds table adventures the specialist earth science natural wonders climate solutions green living audio podcast categories radio audio faqs video bbc maestro discover the world live live news live sport home news sport business technology health culture arts travel earth audio video live weather newsletters hundreds of my abusers are still out there, says victim as grooming inquiry launched 2 hours ago share save add as preferred on google sima kotecha senior uk correspondent bbc these things are very real and they are happening, sexual abuse survivor penny not her real name tells bbc's sima kotecha penny was just 12 when she was groomed by several men of pakistani heritage.",
+          "housing market to soften amid iran war fallout, nationwide says skip to content home news us canada uk uk politics england n.",
+          "the bbc is among the first news outlets to witness these defensive missions in the air being conducted day and night, ever since the us and israel began their bombing campaign against iran.",
+          "iran war how pakistan became an unlikely mediator skip to content home news us canada uk uk politics england n.",
+          "iran is not only a neighbour of pakistan, with whom it shares a 900km 559 miles or so border, but by its own messages also has a brotherly relationship with deep cultural and religious ties.",
+          "long queues in myanmar as iran war fuel crisis deepens skip to content home news us canada uk uk politics england n.",
+          "read more how countries are responding to rising oil prices 13 hours ago myanmar asia fuel oil gas industry iran war share save 'bts is everything for us' k-pop fans gather in seoul for comeback show some 260,",
+          "bbc verify has confirmed at least three oil sites in russia's leningrad region have been attacked since 23 march, including the ports of and ust-luga and primorsk - and the inland kirishi oil refinery.",
+          "palestinians convicted of deadly attacks face death penalty under new israeli law skip to content home news us canada uk uk politics england n.",
+          "ireland politics scotland scotland politics wales wales politics africa asia china india australia europe latin america middle east in pictures bbc indepth bbc verify sport business world of business nyse opening bell technology ai v the mind health culture film tv music art design style books entertainment news arts arts in motion travel destinations africa antarctica asia australia and pacific caribbean bermuda central america europe middle east north america south america worlds table adventures the specialist earth science natural wonders climate solutions green living audio podcast categories radio audio faqs video bbc maestro discover the world live live news live sport home news sport business technology health culture arts travel earth audio video live weather newsletters palestinians convicted of deadly attacks face death penalty under new israeli law 14 hours ago share save add as preferred on google sebastian usher middle east analyst, jerusalem reuters israel's far-right national security minister itamar ben-gvir wore a noose pin on his lapel to signal his support for the bill israel's parliament has approved a law that would make the death penalty the default sentence for palestinians convicted of deadly terror attacks.",
+          "the bill stipulates that palestinians convicted in israeli military courts of carrying out deadly attacks deemed to be acts of terrorism would be executed by hanging within 90 days, with a possible pos indepth press"
+        ],
+        "actors": [
+          "##pc",
+          "re",
+          "vol",
+          "##rae",
+          "ben",
+          "g",
+          "is",
+          "it",
+          "##ele",
+          "te",
+          "he",
+          "al jaz",
+          "al",
+          "i",
+          "p",
+          "z",
+          "##zbollah",
+          "##aki"
+        ],
+        "locations": [
+          "dub",
+          "##ussia",
+          "##stan",
+          "r",
+          "ban",
+          "is",
+          "##yya",
+          "jaz",
+          "##ghanistan",
+          "##rad",
+          "wasita al - qasimiya",
+          "ha",
+          "al",
+          "##f"
+        ],
+        "event_types": [
+          "conflict",
+          "general",
+          "violence"
+        ],
+        "sources": [
+          "BBC",
+          "Guardian",
+          "AlJazeera"
+        ],
+        "timestamps": [
+          "2026-03-31T10:43:57.714902",
+          "2026-03-31T10:44:06.855795",
+          "2026-03-31T10:44:09.953022",
+          "2026-03-31T10:44:11.933609",
+          "2026-03-31T10:44:11.933609",
+          "2026-03-31T10:44:11.933609",
+          "2026-03-31T10:44:13.984902",
+          "2026-03-31T10:44:13.984902",
+          "2026-03-31T10:44:13.984902",
+          "2026-03-31T10:44:13.984902",
+          "2026-03-31T10:44:13.984902",
+          "2026-03-31T10:44:13.984902",
+          "2026-03-31T10:44:13.984902",
+          "2026-03-31T10:44:13.984902",
+          "2026-03-31T10:44:19.507832",
+          "2026-03-31T10:44:19.507832",
+          "2026-03-31T10:44:19.507832",
+          "2026-03-31T10:44:19.507832",
+          "2026-03-31T10:44:19.507832",
+          "2026-03-31T10:44:21.772612",
+          "2026-03-31T10:44:21.772612",
+          "2026-03-31T10:44:21.772612",
+          "2026-03-31T10:44:21.772612",
+          "2026-03-31T10:44:24.006247",
+          "2026-03-31T10:44:26.513021",
+          "2026-03-31T10:45:24.006462",
+          "2026-03-31T10:45:24.006462",
+          "2026-03-31T10:46:44.800371",
+          "2026-03-31T10:46:44.800371",
+          "2026-03-31T10:46:44.800371",
+          "2026-03-31T10:46:44.800371",
+          "2026-03-31T10:48:36.053217",
+          "2026-03-31T10:48:36.053217",
+          "2026-03-31T10:48:36.053217",
+          "2026-03-31T10:48:36.053217",
+          "2026-03-31T10:48:36.053217",
+          "2026-03-31T10:48:36.053217",
+          "2026-03-31T10:49:05.413412",
+          "2026-03-31T10:49:05.413412",
+          "2026-03-31T10:49:05.413412",
+          "2026-03-31T10:49:05.413412",
+          "2026-03-31T10:49:13.173899",
+          "2026-03-31T10:49:13.173899",
+          "2026-03-31T10:49:13.173899",
+          "2026-03-31T10:49:25.291785",
+          "2026-03-31T10:49:25.291785",
+          "2026-03-31T10:49:25.291785",
+          "2026-03-31T10:49:44.179993",
+          "2026-03-31T10:49:55.675135",
+          "2026-03-31T10:49:55.675135",
+          "2026-03-31T10:50:47.476886",
+          "2026-03-31T10:51:38.014205",
+          "2026-03-31T10:51:53.454778",
+          "2026-03-31T10:52:09.432280",
+          "2026-03-31T10:52:09.432280",
+          "2026-03-31T10:52:22.846257",
+          "2026-03-31T10:52:22.846257",
+          "2026-03-31T10:52:37.315024",
+          "2026-03-31T10:53:09.207908",
+          "2026-03-31T10:53:09.207908",
+          "2026-03-31T10:53:09.207908"
+        ]
+      },
+      "original_event_indices": [
+        1,
+        3,
+        4,
+        7,
+        8,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        32,
+        34,
+        35,
+        41,
+        42,
+        57,
+        58,
+        59,
+        60,
+        67,
+        68,
+        69,
+        70,
+        71,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        83,
+        84,
+        85,
+        88,
+        90,
+        91,
+        100,
+        105,
+        108,
+        109,
+        111,
+        113,
+        116,
+        117,
+        122,
+        123,
+        126
+      ]
+    }
+  },
+  {
+    "cluster_id": 1,
+    "analysis": {
+      "trend": "stable",
+      "source_count": 1,
+      "importance_score": 16.0,
+      "summary": "Cluster of 4 events.\n\nEvent Types: conflict, general\nActors: may\nLocations: con, bra\n\nSources involved: 1"
+    },
+    "original_cluster": {
+      "cluster_id": 1,
+      "merged_event": {
+        "cluster_size": 4,
+        "event_texts": [
+          "interpol arrest warrant requested in congo-brazzaville for jean-guy blaise mayolas football the guardian skip to main content skip to navigation skip to navigation jean-guy blaise mayolas has been convicted of money laundering, forgery, use of forged documents and embezzlement.",
+          "photograph fifa football interpol arrest warrant requested in congo-brazzaville for jean-guy blaise mayolas football federation president on the run with wife and son conviction in absentia of wide-ranging corruption charges ed aarons and romain molina mon 30 mar 2026 16.34 bst last modified on mon 30 mar 2026 16.57 bst share prefer the guardian on google authorities in congo-brazzaville have applied to interpol for an international arrest warrant against jean-guy blaise mayolas, the president of the countrys football federation, fecofoot, after he was convicted of embezzling 1.1m in fifa funds.",
+          "mayolas is on the run with his wife and son after they were all sentenced to life imprisonment this month for embezzling funds provided by world footballs governing body as part of its covid-19 relief plan in february 2021.",
+          "amnesty international warns fifa world cup risks becoming stage for repression read more mayolas and his family were tried in absentia and are believed to have fled the country weeks before the hearing."
+        ],
+        "actors": [
+          "may"
+        ],
+        "locations": [
+          "con",
+          "bra"
+        ],
+        "event_types": [
+          "conflict",
+          "general"
+        ],
+        "sources": [
+          "Guardian"
+        ],
+        "timestamps": [
+          "2026-03-31T10:44:57.915626",
+          "2026-03-31T10:44:57.915626",
+          "2026-03-31T10:44:57.915626",
+          "2026-03-31T10:44:57.915626"
+        ]
+      },
+      "original_event_indices": [
+        36,
+        37,
+        38,
+        39
+      ]
+    }
+  },
+  {
+    "cluster_id": 2,
+    "analysis": {
+      "trend": "stable",
+      "source_count": 1,
+      "importance_score": 7.0,
+      "summary": "Cluster of 2 events.\n\nEvent Types: general\nActors: \nLocations: \n\nSources involved: 1"
+    },
+    "original_cluster": {
+      "cluster_id": 2,
+      "merged_event": {
+        "cluster_size": 2,
+        "event_texts": [
+          "they said the violence underscored the gravity of the security situation in the country and urged a thorough investigation.",
+          "but he cautioned that policymakers would monitor two conflicting factors the stability of both the us work gulaian us plotting lhelgi iground assault?"
+        ],
+        "actors": [],
+        "locations": [],
+        "event_types": [
+          "general"
+        ],
+        "sources": [
+          "Guardian"
+        ],
+        "timestamps": [
+          "2026-03-31T10:45:24.006462",
+          "2026-03-31T10:46:44.800371"
+        ]
+      },
+      "original_event_indices": [
+        44,
+        61
+      ]
+    }
+  },
+  {
+    "cluster_id": 3,
+    "analysis": {
+      "trend": "stable",
+      "source_count": 1,
+      "importance_score": 21.0,
+      "summary": "Cluster of 4 events.\n\nEvent Types: conflict, diplomacy\nActors: rodrigue, del, ##cy, ni, mad\nLocations: \n\nSources involved: 1"
+    },
+    "original_cluster": {
+      "cluster_id": 3,
+      "merged_event": {
+        "cluster_size": 4,
+        "event_texts": [
+          "photograph matias delacroix ap venezuela us reopens embassy in venezuela in significant thawing of relations resumption of diplomatic operations come three months after former president maduro was abducted sign up for the us email to get newsletter alerts in your inbox jose olivares mon 30 mar 2026 18.27 bst last modified on mon 30 mar 2026 18.48 bst share prefer the guardian on google the us government is resuming operations at its embassy in venezuela, the state department announced on monday, nearly three months since former president nicolas maduro was abducted from the country and locked up in the us.",
+          "the resumption of us diplomatic operations in venezuela marks a significant step in the us-venezuela relationship, as the trump administration begins to work closely with the government of delcy rodriguez , the acting president who replaced maduro after his forcible ousting by us troops.",
+          "in 2018, maduro expelled the charge daffairs in venezuela, leading to the us government to withdraw all its diplomatic personnel from the country the following year.",
+          "since then, us relations towards venezuela have been carried out from the us embassy in neighboring colombia."
+        ],
+        "actors": [
+          "rodrigue",
+          "del",
+          "##cy",
+          "ni",
+          "mad"
+        ],
+        "locations": [],
+        "event_types": [
+          "conflict",
+          "diplomacy"
+        ],
+        "sources": [
+          "Guardian"
+        ],
+        "timestamps": [
+          "2026-03-31T10:45:35.915833",
+          "2026-03-31T10:45:35.915833",
+          "2026-03-31T10:45:35.915833",
+          "2026-03-31T10:45:35.915833"
+        ]
+      },
+      "original_event_indices": [
+        47,
+        48,
+        49,
+        50
+      ]
+    }
+  },
+  {
+    "cluster_id": 4,
+    "analysis": {
+      "trend": "increasing",
+      "source_count": 1,
+      "importance_score": 13.5,
+      "summary": "Cluster of 3 events.\n\nEvent Types: general\nActors: \nLocations: le, ##tu, van\n\nSources involved: 1"
+    },
+    "original_cluster": {
+      "cluster_id": 4,
+      "merged_event": {
+        "cluster_size": 3,
+        "event_texts": [
+          "vanuatu indigenous leaders raise concerns over plans to build resort for cruise tourists vanuatu the guardian skip to main content skip to navigation skip to navigation the proposed private beach club in lelepa, vanuatu, by the cruise operator royal caribbean, which says it will incorporate feedback into its final impact assessments.",
+          "illustration facebook royal caribbean vanuatu vanuatu indigenous leaders raise concerns over plans to build resort for cruise tourists exclusive environmental impact assessments are incomplete, say leaders, and private beach club could harm fragile ecosystems prianka srinivasan tue 31 mar 2026 01.40 bst first published on tue 31 mar 2026 01.27 bst share prefer the guardian on google indigenous community leaders in vanuatu have raised concerns over plans by the cruise operator royal caribbean to build a private beach club on the island of lelepa, arguing environmental impact assessments by the company are incomplete and misleading.",
+          "royal caribbean has leased parts of lelepa, a 5km-long island home to about 500 people in vanuatu to develop a resort capable of hosting up to 5,000 visitors a day."
+        ],
+        "actors": [],
+        "locations": [
+          "le",
+          "##tu",
+          "van"
+        ],
+        "event_types": [
+          "general"
+        ],
+        "sources": [
+          "Guardian"
+        ],
+        "timestamps": [
+          "2026-03-31T10:46:07.056360",
+          "2026-03-31T10:46:07.056360",
+          "2026-03-31T10:46:07.056360"
+        ]
+      },
+      "original_event_indices": [
+        54,
+        55,
+        56
+      ]
+    }
+  },
+  {
+    "cluster_id": 5,
+    "analysis": {
+      "trend": "increasing",
+      "source_count": 1,
+      "importance_score": 9.0,
+      "summary": "Cluster of 3 events.\n\nEvent Types: conflict\nActors: \nLocations: \n\nSources involved: 1"
+    },
+    "original_cluster": {
+      "cluster_id": 5,
+      "merged_event": {
+        "cluster_size": 3,
+        "event_texts": [
+          "melbourne girl, 13, allegedly shouted antisemitic remarks, threw eggs and swerved car towards jewish families melbourne the guardian skip to main content skip to navigation skip to navigation police said they will allege the 13-year-old girl from the bayside area was also involved in other incidents involving erratic driving in stolen cars.",
+          "photograph aap melbourne melbourne girl, 13, allegedly shouted antisemitic remarks, threw eggs and swerved car towards jewish families jewish families narrowly escaped being struck by the car after girl swerved towards them in ripponlea, police say follow our australia news live blog for latest updates get our email , free app or daily news podcast nino bucci tue 31 mar 2026 07.40 bst last modified on tue 31 mar 2026 07.41 bst share prefer the guardian on google a 13-year-old melbourne girl has been charged with 52 offences including allegedly shouting antisemitic remarks, throwing eggs and swerving a stolen car towards members of the jewish community.",
+          "three days later, the car, allegedly driven by the 13-year-old, swerved towards jewish families in ripponlea about 7pm, police said, as the group crossed the road at the intersection of hotham street and glen eira road."
+        ],
+        "actors": [],
+        "locations": [],
+        "event_types": [
+          "conflict"
+        ],
+        "sources": [
+          "Guardian"
+        ],
+        "timestamps": [
+          "2026-03-31T10:47:21.191356",
+          "2026-03-31T10:47:21.191356",
+          "2026-03-31T10:47:21.191356"
+        ]
+      },
+      "original_event_indices": [
+        63,
+        64,
+        65
+      ]
+    }
+  },
+  {
+    "cluster_id": 6,
+    "analysis": {
+      "trend": "stable",
+      "source_count": 1,
+      "importance_score": 11.0,
+      "summary": "Cluster of 4 events.\n\nEvent Types: general\nActors: \nLocations: \n\nSources involved: 1"
+    },
+    "original_cluster": {
+      "cluster_id": 6,
+      "merged_event": {
+        "cluster_size": 4,
+        "event_texts": [
+          "gunmen force delivery driver to take suspected bomb to county armagh police station northern ireland the guardian skip to main content skip to navigation skip to navigation it was too early to tell if the device was a viable bomb but officers were treating it as such, an assistant chief constable said.",
+          "photograph liam mcburney pa northern ireland gunmen force delivery driver to take suspected bomb to county armagh police station homes evacuated in lurgan as police carry out controlled explosion on device, which man was forced to carry in terrifying ordeal rory carroll ireland correspondent tue 31 mar 2026 11.26 bst last modified on tue 31 mar 2026 11.27 bst share prefer the guardian on google gunmen hijacked a car, placed a device inside and forced the occupant to drive the vehicle to a police station in northern ireland on monday, prompting a security alert and the evacuation of about 100 homes.",
+          "police carried out a controlled explosion on the suspect device.",
+          "it was too early to tell if the device was a viable bomb but officers were treat vu 2d ssohd"
+        ],
+        "actors": [],
+        "locations": [],
+        "event_types": [
+          "general"
+        ],
+        "sources": [
+          "Guardian"
+        ],
+        "timestamps": [
+          "2026-03-31T10:50:05.844768",
+          "2026-03-31T10:50:05.844768",
+          "2026-03-31T10:50:05.844768",
+          "2026-03-31T10:50:05.844768"
+        ]
+      },
+      "original_event_indices": [
+        94,
+        95,
+        96,
+        97
+      ]
+    }
+  },
+  {
+    "cluster_id": 7,
+    "analysis": {
+      "trend": "increasing",
+      "source_count": 1,
+      "importance_score": 9.0,
+      "summary": "Cluster of 3 events.\n\nEvent Types: conflict\nActors: \nLocations: \n\nSources involved: 1"
+    },
+    "original_cluster": {
+      "cluster_id": 7,
+      "merged_event": {
+        "cluster_size": 3,
+        "event_texts": [
+          "starmer gives doctors 48 hours to cancel strike or lose new jobs package skip to content home news us canada uk uk politics england n.",
+          "last week the bma called the strike over a deal which would see doctors receive a 3.5 pay rise this year, some expenses including exam fees paid for, and an increase in the number of training posts.",
+          "doctors announce six-day strike in england as talks break down w pay restoration for doctors 4 pi"
+        ],
+        "actors": [],
+        "locations": [],
+        "event_types": [
+          "conflict"
+        ],
+        "sources": [
+          "BBC"
+        ],
+        "timestamps": [
+          "2026-03-31T10:51:03.600605",
+          "2026-03-31T10:51:03.600605",
+          "2026-03-31T10:51:03.600605"
+        ]
+      },
+      "original_event_indices": [
+        101,
+        102,
+        103
+      ]
+    }
+  },
+  {
+    "cluster_id": 8,
+    "analysis": {
+      "trend": "stable",
+      "source_count": 1,
+      "importance_score": 7.0,
+      "summary": "Cluster of 2 events.\n\nEvent Types: conflict, general\nActors: \nLocations: \n\nSources involved: 1"
+    },
+    "original_cluster": {
+      "cluster_id": 8,
+      "merged_event": {
+        "cluster_size": 2,
+        "event_texts": [
+          "and unlike many of the usual intermediaries in the gulf it has not yet been pulled into the conflict.",
+          "nearly 90 of the oil and gas that passes through the strait is bound for asian countries - but that has all but stopped since the start of the war."
+        ],
+        "actors": [],
+        "locations": [],
+        "event_types": [
+          "conflict",
+          "general"
+        ],
+        "sources": [
+          "BBC"
+        ],
+        "timestamps": [
+          "2026-03-31T10:52:09.432280",
+          "2026-03-31T10:52:22.846257"
+        ]
+      },
+      "original_event_indices": [
+        112,
+        114
+      ]
+    }
+  },
+  {
+    "cluster_id": 9,
+    "analysis": {
+      "trend": "stable",
+      "source_count": 1,
+      "importance_score": 7.0,
+      "summary": "Cluster of 2 events.\n\nEvent Types: general\nActors: \nLocations: \n\nSources involved: 1"
+    },
+    "original_cluster": {
+      "cluster_id": 9,
+      "merged_event": {
+        "cluster_size": 2,
+        "event_texts": [
+          "but the fatal shooting of two police officers by local dezi freeman last august, and the manhunt that followed, thrust it into the headlines not just in australia, but around the world.",
+          "that manhunt - one of the largest in australian police history - ended on monday, after officers shot freeman dead following a three-hour stand-off at a property almost two hours' drive north of porepunkah."
+        ],
+        "actors": [],
+        "locations": [],
+        "event_types": [
+          "general"
+        ],
+        "sources": [
+          "BBC"
+        ],
+        "timestamps": [
+          "2026-03-31T10:52:54.432585",
+          "2026-03-31T10:52:54.432585"
+        ]
+      },
+      "original_event_indices": [
+        120,
+        121
+      ]
+    }
+  }
+]
